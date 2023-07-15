@@ -20,7 +20,8 @@ I am a Software Engineer with a focus on frontend development and a curiosity fo
 ## Work profile 🧑‍💻
 I have worked on some amazing projects during my current tenure in hospitality domain and in creative hiring domain. Being an active developer with more than 2k 🟢 contributions to the projects' development, I am involved with a team of designers, managers and engineers in an agile workflow leading the development of some major features on the frontend.
 
-**Tech Stack - React js, Redux Saga, Astro, Tailwind, Styled Components, Ant Design, Javascript, Typescript, HTML, CSS, SASS**
+**Tech Stack - React js, Redux Saga, Astro, Tailwind, Styled Components, Ant Design, Javascript, Typescript, HTML, CSS, SASS**  
+
 Take a look at my contributions -  
 
 ✨ [Dhairya@TwoPointOne](https://www.github.com/dhairya-pdgt) ✨
