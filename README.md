@@ -3,7 +3,7 @@
 ## About Me 🙋‍♂️
 I am a Software Engineer with a focus on frontend development and a curiosity for Backend technologies, with 2 years of experience in building large scale products. I have a strong foundation in frontend development with expertise in various technologies. I love working on projects that create a positive impact on the community. 
 
-🌱 I am current learning Next js and diving deep into frontend development.   
+🌱 I am currently learning Next js and diving deep into frontend development.   
 
 ⚡ arLong-98 - I picked this name up while I was pursuing my B.Tech from [IIIT Jabalpur](https://www.iiitdmj.ac.in/) and watching [OnePiece](https://en.wikipedia.org/wiki/One_Piece).
 
@@ -18,13 +18,9 @@ I am a Software Engineer with a focus on frontend development and a curiosity fo
 - DSA, System design
   
 ## Work profile 🧑‍💻
-I have worked on some amazing projects during my current tenure in hospitality domain and in creative hiring domain. Being an active developer with more than 2k 🟢 contributions to the projects' development, I am involved with a team of designers, managers and engineers in an agile workflow leading the development of some major features on the frontend.
+In my current organisation, I'm actively involved in building FE of two scalable businesses in the creative hiring and hospitality domain. Here is the link ✨ [Dhairya@TwoPointOne](https://www.github.com/dhairya-pdgt) ✨ to my work profile.  
 
 **Tech Stack - React js, Redux Saga, Astro, Tailwind, Styled Components, Ant Design, Javascript, Typescript, HTML, CSS, SASS**  
-
-Take a look at my contributions -  
-
-✨ [Dhairya@TwoPointOne](https://www.github.com/dhairya-pdgt) ✨
 
 ## Personal Projects 💪
 
