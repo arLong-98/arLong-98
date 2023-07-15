@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey there, I am Dhairya Pateriya.
 
-<!--
-**arLong-98/arLong-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🙋‍♂️
+I am a Software Engineer with a focus on frontend development and a curiosity for Backend technologies, with 2 years of experience in building large scale products. I have a strong foundation in frontend development with expertise in various technologies. I love working on projects that create a positive impact on the community. 
 
-Here are some ideas to get you started:
+🌱 I am current learning Next js and diving deep into frontend development.
+⚡ arLong-98 - I picked this name up while I was pursuing my B.Tech from [college](https://www.iiitdmj.ac.in/) and watching [OnePiece](https://en.wikipedia.org/wiki/One_Piece).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills 🚀
+- React js, Next js, Astro
+- Redux/Redux Saga, State management
+- Tailwind css, Material UI
+- HTML5, CSS, SASS, Javascript, Typescript
+- Cross platform Development, Ionic
+- Responsive Web Design
+- DSA, System design
+  
+## Work profile 🧑‍💻
+I have worked on some amazing projects during my current tenure in hospitality domain and in creative hiring domain. Being an active developer with more than 2k 🟢 contributions to the projects' development, I am involved with a team of designers, managers and engineers in an agile workflow leading the development of some major features on the frontend.
+
+✨ [Dhairya@TwoPointOne](https://www.github.com/dhairya-pdgt) ✨
+  
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/dhairya-pateriya-b12a8216a/)
+- Email: dhairya999pateriya@gmail.com
