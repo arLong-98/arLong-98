@@ -21,6 +21,22 @@ I am a Software Engineer with a focus on frontend development and a curiosity fo
 I have worked on some amazing projects during my current tenure in hospitality domain and in creative hiring domain. Being an active developer with more than 2k 🟢 contributions to the projects' development, I am involved with a team of designers, managers and engineers in an agile workflow leading the development of some major features on the frontend.
 
 ✨ [Dhairya@TwoPointOne](https://www.github.com/dhairya-pdgt) ✨
+
+## Personal Projects 💪
+
+### Excel Lite
+**Description**: A vanilla js based clone of google sheets. This project highlights my javascript proficiency and working with DOM apis as well as showcases how DSA is used for a real world problem.
+
+Tech used - Javascript, HTML, CSS, Browser apis
+
+**Demo**: https://arlong-98.github.io/excel-lite/
+
+### Chat Room Application
+**Description**: A chat room application that allows multiple users to join a chat room and send text messages in real time.  
+
+Tech used - Node.js, Javascript, HTML, CSS, Socket.io
+
+**Demo**: https://dhairya-chat-room.onrender.com
   
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dhairya-pateriya-b12a8216a/)
