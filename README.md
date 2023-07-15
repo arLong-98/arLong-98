@@ -39,6 +39,8 @@ Tech used - Javascript, HTML, CSS, Browser apis
 Tech used - Node.js, Javascript, HTML, CSS, Socket.io
 
 **Demo**: https://dhairya-chat-room.onrender.com
+
+*PS : You can find the repositories to the above projects and more in the pinned section 👇*
   
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dhairya-pateriya-b12a8216a/)
