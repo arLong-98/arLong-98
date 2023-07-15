@@ -3,7 +3,7 @@
 ## About Me 🙋‍♂️
 I am a Software Engineer with a focus on frontend development and a curiosity for Backend technologies, with 2 years of experience in building large scale products. I have a strong foundation in frontend development with expertise in various technologies. I love working on projects that create a positive impact on the community. 
 
-🌱 I am current learning Next js and diving deep into frontend development.
+🌱 I am current learning Next js and diving deep into frontend development.   
 
 ⚡ arLong-98 - I picked this name up while I was pursuing my B.Tech from [IIIT Jabalpur](https://www.iiitdmj.ac.in/) and watching [OnePiece](https://en.wikipedia.org/wiki/One_Piece).
 
